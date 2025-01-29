@@ -2,7 +2,7 @@
 
 ## Bienvenue sur le projet Cinédelices ! 🎉
 
-### Qu'est-ce que ce projet ? 🤔
+### Quel est ce projet ? 🤔
 
 **Cinédelices** est une application web responsive développée avec **React**, **NodeJs**, **PostgreSQL** et **Sequelize**. Cette application permet aux utilisateurs d'explorer un catalogue de films et d'émissions de télévision tout en découvrant des recettes inspirées des plats présents dans les films 🍿🍔. Les visiteurs peuvent également créer leurs propres recettes en lien avec leurs films préférés 🎥🍽️. Grâce à une interface conviviale et une expérience fluide, l'application est accessible sur tous les types d'appareils 📱💻.
 
