@@ -4,7 +4,7 @@
 
 ### Qu'est-ce que ce projet ? 🤔
 
-**Cinédelices** est une application web responsive développée avec **React**, **NodeJs**, **PostgreSQL** et **Sequelize**. Cette application permet aux utilisateurs d'explorer un catalogue de films et d'émissions de télévision tout en découvrant des recettes inspirées des plats présents dans les films 🍿🍔. Les visiteurs peuvent également créer et partager leurs propres recettes en lien avec leurs films préférés 🎥🍽️. Grâce à une interface conviviale et une expérience fluide, l'application est accessible sur tous les types d'appareils 📱💻.
+**Cinédelices** est une application web responsive développée avec **React**, **NodeJs**, **PostgreSQL** et **Sequelize**. Cette application permet aux utilisateurs d'explorer un catalogue de films et d'émissions de télévision tout en découvrant des recettes inspirées des plats présents dans les films 🍿🍔. Les visiteurs peuvent également créer leurs propres recettes en lien avec leurs films préférés 🎥🍽️. Grâce à une interface conviviale et une expérience fluide, l'application est accessible sur tous les types d'appareils 📱💻.
 
 Le **backend** est construit avec **NodeJs**, offrant une gestion efficace des données grâce à l'ORM **Sequelize** et à la base de données **PostgreSQL**. Cette solution garantit une expérience performante et sécurisée pour les utilisateurs 🔐🚀.
 
