@@ -1,0 +1,3 @@
+[submodule "projet-cines-delices-back"]
+	path = projet-cines-delices-back
+	url = https://github.com/O-clock-Pizza/projet-cines-delices-back.git
